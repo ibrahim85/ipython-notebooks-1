@@ -1,7 +1,3 @@
-<br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zach-/ipython-notebooks/master/images/README_1200x800.gif">
-</p>
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [ipython-notebooks](#ipython-notebooks)
@@ -33,6 +29,12 @@
 	- [license](#license)
 
 <!-- /TOC -->
+
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zach-/ipython-notebooks/master/images/README_1200x800.gif">
+</p>
+
 # ipython-notebooks
 
 This repo is a collection of IPython Notebooks I reference while working with data.  Although I developed and maintain many notebooks, other notebooks I reference were created by various authors, who are credited within their notebook(s) by providing their names and/or a link to their source.
