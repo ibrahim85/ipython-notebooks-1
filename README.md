@@ -1,7 +1,9 @@
+
+## Table of Contents
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+	- [Table of Contents](#table-of-contents)
 - [ipython-notebooks](#ipython-notebooks)
-	- [Index](#index)
 	- [spark](#spark)
 	- [mapreduce-python](#mapreduce-python)
 	- [kaggle-and-business-analyses](#kaggle-and-business-analyses)
@@ -45,27 +47,6 @@ For detailed instructions, scripts, and tools to more optimally set up your deve
   <img src="https://raw.githubusercontent.com/zach-/ipython-notebooks/master/images/coversmall_alt.png">
   <br/>
 </p>
-
-## Index
-
-* [spark](#spark)
-* [mapreduce-python](#mapreduce-python)
-* [kaggle-and-business-analyses](#kaggle-and-business-analyses)
-* [deep-learning](#deep-learning)
-* [scikit-learn](#scikit-learn)
-* [statistical-inference-scipy](#statistical-inference-scipy)
-* [pandas](#pandas)
-* [matplotlib](#matplotlib)
-* [numpy](#numpy)
-* [python-data](#python-data)
-* [amazon web services](#aws)
-* [command lines](#commands)
-* [misc](#misc)
-* [notebook-installation](#notebook-installation)
-* [credits](#credits)
-* [contributing](#contributing)
-* [contact-info](#contact-info)
-* [license](#license)
 
 <br/>
 <p align="center">
