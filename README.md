@@ -2,7 +2,7 @@
 ## Table of Contents
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-	- [Table of Contents](#table-of-contents)
+- [Table of Contents](#table-of-contents)
 - [ipython-notebooks](#ipython-notebooks)
 	- [spark](#spark)
 	- [mapreduce-python](#mapreduce-python)
